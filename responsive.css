@@ -1,0 +1,649 @@
+@media only screen and (max-width: 992px){
+.container{
+    width: 994px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+#header{
+    background: url(banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 138%;
+    height: 590px;
+}
+
+.active-logo {
+    float: left;
+    margin-top: 36px;
+    margin-right: 126px;
+    margin-bottom: 12px;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar ul li {
+    float: left;
+    list-style-type: none;
+    margin-top: 37px;
+    margin-left: 25px;
+    font-size: 26px;
+}
+
+.hr-line hr {
+    width: 100%;
+}
+
+.home-desc {
+    text-align: center;
+    margin-top: 112px;
+    color: white;
+}
+
+.home-desc h1 {
+    line-height: 47px;
+    font-size: 42px;
+    text-transform: uppercase;
+}
+
+.home-desc p {
+    padding-bottom: 17px;
+    font-size: 34px
+}
+
+.home-desc button {
+    color: white;
+    text-transform: uppercase;
+    padding: 16px 16px;
+    background: #E84545;
+    border: none;
+    border-radius: 8px;
+    font-size: 27px;
+}
+
+
+.nav-bar ul li a:hover {
+    color: #2D2E4A;
+    background: white;
+    padding: 6px 5px;
+    border-radius: 2px;
+}
+
+.home-desc button:hover {
+    color: #2D2E4A;
+    background: white;
+}
+
+.single-tool {
+    padding-top: 68px;
+    margin-left: 31px;
+    font-size: 43px;
+    float: left;
+    width: 45%
+}
+
+.tool-icone i {
+    color: #E84545;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 2px;
+}
+
+.tool-icone {
+    text-align: center;
+    font-size: 98px;
+}
+
+.tool-desc {
+    text-align: center;
+}
+
+.tool-desc h4 {
+    padding-bottom: 24px;
+    font-size: 38px;
+    padding-top: 46px;
+}
+
+.tool-desc p {
+    color: #8e8e8e;
+    padding-bottom: 75px;
+    font-size: 23px;
+}
+
+.tool-wrapper {
+    overflow: hidden;
+}
+
+.single-image img {
+    width: 678px;
+    float: left;
+    margin-top: 13px;
+    margin: auto;
+    margin-left: 3px;
+    margin-bottom: 3px;
+}
+
+
+
+
+.image-show-wrapper {
+    overflow: hidden;
+}
+
+.team-single {
+    width: 482px;
+    padding-top: 142px;
+    float: left;
+    margin: auto;
+    text-align: center;
+}
+
+.team-heading {
+    margin-top: 17px;
+}
+
+.team-heading h2 {
+    margin-bottom: 6px;
+    font-size: 37px;
+}
+
+.team-heading span {
+    color: #E84545;
+    font-size: 23px;
+    text-align: center;
+}
+
+.team-desc-single {
+    margin-top: 25px;
+    font-size: 29px;
+}
+
+.team-desc-single p {
+    color: #6f6e6e;
+}
+
+.team-social-icone ul li {
+    list-style-type: none;
+    float: left;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 64px;
+    padding-right: 21px;
+    padding-bottom: 70px
+}
+
+.team-social-icone ul li:hover{
+    color: #E84545;
+    cursor: pointer;
+}
+
+.single-image img:hover{
+    cursor: pointer;
+}
+
+.team-image img:hover{
+    cursor: pointer;
+}
+
+.team-wrapper {
+    overflow: hidden;
+}
+
+.single-person-image img {
+    width: 100%;
+    float: none;
+    display: grid;
+}
+
+.testimonial-desc {
+    background: #53354A;
+    height: 298px;
+}
+
+.testimonial-desc h3 {
+    padding-top: 88px;
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    width: 1063px;
+    margin: auto;
+}
+
+.download-wrapper {
+    overflow: hidden;
+}
+
+.download-heading {
+    text-align: center;
+    margin-top: 86px;
+}
+
+.download-span {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 36px;
+    font-family: arial;
+}
+
+.download-button {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 90px;
+}
+
+.download-button button {
+    padding: 13px 14px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background: #E84545;
+    font-size: 32px;
+    margin-top: 25px;
+}
+
+.download-button button:hover{
+    color: #E84545;
+    background: #c3c3c3;
+    border: 1px solid black;
+
+}
+.footer-desc {
+    text-align: center;
+}
+
+#footer {
+    background: #313454;
+    width: 138%;
+}
+
+.footer-wrapper {
+    overflow: hidden;
+}
+
+.footer-desc {
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-size: 38px;
+}
+
+.team-social-icone ul li i {
+    color: #ababab;
+}
+
+.team-social-icone ul li i:hover{
+    color: #E84545;
+}
+
+.team-image img{
+    width: 380px;
+    text-align: center;
+}
+
+.download-heading h2{
+    font-size: 50px;
+}
+
+section#download {
+    width: 138%;
+}
+
+section#single-person {
+    width: 138%;
+}
+
+section#image-show {
+    width: 138%;
+}
+
+section#tool {
+    width: 138%;
+}
+
+section#team {
+   width: 138%;
+}
+
+.team-social-icone {
+    width: 232px;
+    margin: auto;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
+.container{
+	width: 994px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+#header{
+	background: url(banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 240%;
+    height: 590px;
+}
+
+.active-logo {
+    float: left;
+    margin-top: 36px;
+    margin-right: 126px;
+    margin-bottom: 12px;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar ul li {
+    float: left;
+    list-style-type: none;
+    margin-top: 37px;
+    margin-left: 25px;
+    font-size: 26px;
+}
+
+.hr-line hr {
+    width: 100%;
+}
+
+.home-desc {
+    text-align: center;
+    margin-top: 112px;
+    color: white;
+}
+
+.home-desc h1 {
+    line-height: 47px;
+    font-size: 42px;
+    text-transform: uppercase;
+}
+
+.home-desc p {
+    padding-bottom: 17px;
+    font-size: 34px
+}
+
+.home-desc button {
+    color: white;
+    text-transform: uppercase;
+    padding: 16px 16px;
+    background: #E84545;
+    border: none;
+    border-radius: 8px;
+    font-size: 27px;
+}
+
+
+.nav-bar ul li a:hover {
+    color: #2D2E4A;
+    background: white;
+    padding: 6px 5px;
+    border-radius: 2px;
+}
+
+.home-desc button:hover {
+    color: #2D2E4A;
+    background: white;
+}
+
+.single-tool {
+    width: 425px;
+    padding-top: 68px;
+    margin-left: 64px;
+    font-size: 43px;
+    display: grid;
+    float: none;
+    margin: auto;
+}
+
+.tool-icone i {
+    color: #E84545;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 37px;
+}
+
+.tool-icone {
+    text-align: center;
+    font-size: 143px;
+}
+
+.tool-desc {
+    text-align: center;
+}
+
+.tool-desc h4 {
+    padding-bottom: 24px;
+    font-size: 38px;
+    padding-top: 46px;
+}
+
+.tool-desc p {
+    color: #8e8e8e;
+    padding-bottom: 75px;
+}
+
+.tool-wrapper {
+    overflow: hidden;
+}
+
+.single-image img {
+    width: 720px;
+    float: left;
+    margin-top: 13px;
+    margin: auto;
+}
+
+
+
+
+.image-show-wrapper {
+    overflow: hidden;
+}
+
+.team-single {
+    width: 538px;
+    padding-top: 142px;
+    float: none;
+    margin: auto;
+    text-align: center;
+}
+
+.team-heading {
+    margin-top: 17px;
+}
+
+.team-heading h2 {
+    margin-bottom: 6px;
+    font-size: 57px;
+}
+
+.team-heading span {
+    color: #E84545;
+    font-size: 35px;
+    text-align: center;
+}
+
+.team-desc-single {
+    margin-top: 25px;
+    font-size: 36px;
+}
+
+.team-desc-single p {
+    color: #6f6e6e;
+}
+
+.team-social-icone ul li {
+    list-style-type: none;
+    float: left;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 84px;
+    padding-right: 21px;
+    padding-bottom: 70px;
+}
+
+.team-social-icone ul li:hover{
+	color: #E84545;
+	cursor: pointer;
+}
+
+.single-image img:hover{
+	cursor: pointer;
+}
+
+.team-image img:hover{
+	cursor: pointer;
+}
+
+.team-wrapper {
+    overflow: hidden;
+}
+
+.single-person-image img {
+    width: 100%;
+    float: none;
+    display: grid;
+}
+
+.testimonial-desc {
+    background: #53354A;
+    height: 298px;
+}
+
+.testimonial-desc h3 {
+    padding-top: 88px;
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    width: 1063px;
+    margin: auto;
+}
+
+.download-wrapper {
+    overflow: hidden;
+}
+
+.download-heading {
+    text-align: center;
+    margin-top: 86px;
+}
+
+.download-span {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 36px;
+    font-family: arial;
+}
+
+.download-button {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 90px;
+}
+
+.download-button button {
+    padding: 13px 14px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background: #E84545;
+    font-size: 32px;
+    margin-top: 25px;
+}
+
+.download-button button:hover{
+	color: #E84545;
+	background: #c3c3c3;
+	border: 1px solid black;
+
+}
+.footer-desc {
+    text-align: center;
+}
+
+#footer {
+    background: #313454;
+    width: 240%;
+}
+
+.footer-wrapper {
+    overflow: hidden;
+}
+
+.footer-desc {
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-size: 38px;
+}
+
+.team-social-icone ul li i {
+    color: #ababab;
+}
+
+.team-social-icone ul li i:hover{
+	color: #E84545;
+}
+
+.team-image img{
+    width: 511px;
+    text-align: center;
+}
+
+.download-heading h2{
+    font-size: 50px;
+}
+
+section#download {
+    width: 240%;
+}
+
+section#single-person {
+    width: 240%;
+}
+
+section#image-show {
+    width: 240%;
+}
+
+section#tool {
+    width: 240%;
+}
+
+section#team {
+    width: 240%;
+}
+
+.team-image {}
+
+.team-social-icone {
+    width: 285px;
+    margin: auto;
+}
+
+}
+
+
+
+
+
+
+
